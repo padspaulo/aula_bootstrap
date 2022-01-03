@@ -1,0 +1,36 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+    padding-left: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+img{
+    border-radius: 10px;
+}
+.quem-somos{
+    background-color: white;
+    color: black;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color: white;
+}
+.servicos{
+    background-color: #5b6467;
+    background-image: linear-gradient(315deg, #5b6467 0%, #5b5f63 74%);
+}
+.bg-footer{
+    color: white;
+    background-color: black;
+}
+
+
